@@ -6,7 +6,7 @@ A responsive **Netflix homepage clone** built using **HTML, CSS, and JavaScript*
 ![image](https://github.com/user-attachments/assets/848dee30-fa72-4a3f-85e9-4ab076d0c48d)
 
 ## Link to Access
-https://vaibhav-2005.github.io/Netflix-Frontend-Clone/
+https://net-flix-frontend-clone.netlify.app/
 
 ## Project Overview
 The Netflix Frontend Clone project is a semi-static web page designed to mimic the visual structure and style of Netlix's homepage. This clone focuses solely on layout, styling, and responsive design, making use of only HTML and CSS to achieve a similar appearance.
